@@ -1,0 +1,17 @@
+p{
+    font-family: fantasy;
+    font-size: 3em;
+    text-align: center;
+}
+
+header{
+    padding: 20px;
+}
+
+table td{
+    border: 1px solid black;
+
+}
+table{
+    border-collapse: collapse;
+}
